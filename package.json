@@ -1,0 +1,11 @@
+{
+  "name": "ibm_full_stack",
+  "version": "1.0.0",
+  "description": "AJamal learns ibm full stack development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
